@@ -1,4 +1,4 @@
-using FinanzasPersonales.Data.Context;
+using Finanzas.Data.Context;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
