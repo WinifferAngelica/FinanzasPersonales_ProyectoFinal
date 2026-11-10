@@ -1,3 +1,4 @@
 <Solution>
   <Project Path="Finanzas.Api/Finanzas.Api.csproj" Id="2a2bcaa8-a75d-495a-887a-55ce64262670" />
+  <Project Path="Finanzas.Data/Finanzas.Data.csproj" Id="47bcc3bd-dc9f-479b-b100-4c17b21586be" />
 </Solution>
