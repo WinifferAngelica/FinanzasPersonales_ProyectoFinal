@@ -6,6 +6,7 @@
 obj/
 bin/
 .vs/
+
 appsettings.json
 
 # dotenv files
